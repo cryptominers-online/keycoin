@@ -1,0 +1,9 @@
+Building KeyCoin
+
+See doc/readme-qt.rst for instructions on building KeyCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of KeyCoin.
+
+See doc/build-*.txt for instructions on building keycoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of KeyCoin.
